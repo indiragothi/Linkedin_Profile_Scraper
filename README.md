@@ -1,4 +1,4 @@
-# 🔍 LinkedIn Profile Scraper (Mock Version)
+# 🔍 LinkedIn Profile Scraper  
 
 This is a **Streamlit-based web app** that simulates a LinkedIn profile scraper. It generates realistic mock LinkedIn profiles using random data to demonstrate how lead generation and scoring works for B2B sales and outreach.
 
