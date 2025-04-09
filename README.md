@@ -2,7 +2,6 @@
 
 This is a **Streamlit-based web app** that simulates a LinkedIn profile scraper. It generates realistic mock LinkedIn profiles using random data to demonstrate how lead generation and scoring works for B2B sales and outreach.
 
-> ⚠️ **Note**: This project does not scrape real LinkedIn data. It only generates fake data for educational/demo purposes.
 
 ---
 
