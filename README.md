@@ -8,7 +8,7 @@ This is a **Streamlit-based web app** that simulates a LinkedIn profile scraper.
 
 ## 📸 Demo
 
-![App Screenshot](https://via.placeholder.com/800x400?text=LinkedIn+Scraper+Demo)
+![App Screenshot](assets/Screenshot1.jpg)
 
 ---
 
